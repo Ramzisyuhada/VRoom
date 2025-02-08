@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.11867579, g: 0.1831668, b: 0.32950127, a: 1}
+  m_IndirectSpecularColor: {r: 0.11884698, g: 0.18339385, b: 0.3297491, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6484,7 +6484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   next: {fileID: 673598193}
   prev: {fileID: 980946932}
-  m_PPT: {fileID: 11400000, guid: 350a87dfe5c3a8e47af8b1dbca128bf1, type: 2}
+  m_PPT: {fileID: 11400000, guid: 6721887623825a0439ff7ae3b1b76740, type: 2}
   inputActionLeft:
     m_UseReference: 1
     m_Action:
@@ -11534,7 +11534,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9692502e98faa964f811aac0fc1416d9, type: 2}
+      objectReference: {fileID: 2100000, guid: eba06a9a9408bcb49ae5abea0518dfa6, type: 2}
     - target: {fileID: 400468187061136298, guid: bbd5522335fb57948b490ad0a5f432be,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12830,7 +12830,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_VideoClip
       value: 
-      objectReference: {fileID: 32900000, guid: 69732a34036389647921b793c0bfb791,
+      objectReference: {fileID: 32900000, guid: 616fc82173bf9c148be0026bd310cf28,
         type: 3}
     - target: {fileID: 3933536849155654380, guid: bbd5522335fb57948b490ad0a5f432be,
         type: 3}

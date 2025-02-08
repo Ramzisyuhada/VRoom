@@ -266,7 +266,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/DemoDesignInteriorVR.keystore
+  AndroidKeystoreName: '{dedicated}: Downloads/DemoDesignInteriorVR.keystore'
   AndroidKeyaliasName: ramzi
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
